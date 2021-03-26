@@ -1,0 +1,26 @@
+svg{
+    background-color: white;
+}
+
+body{
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+}
+
+#tooltip{
+    position: absolute;
+    text-align: start;
+    font-size: 12px;
+    width: 85px;
+    height: 50px;
+    padding: 5px;
+    pointer-events: none;
+    background: ghostwhite;
+    border-radius: 5%;
+    visibility: hidden;
+}
+
+#title{
+    font-size: x-large;
+}
